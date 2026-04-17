@@ -1,7 +1,9 @@
 {
   "latest_build": "17/04/2025",
+  "version": "v1.0.0",
+  "update_date": "17/04/2025",
   "maintenance": false,
   "maintenance_message": "Fatality Clicker is under maintenance, please wait.",
   "download_url": "https://github.com/1saymyname/Fatality-Clicker/releases/download/latest/FatalityClicker.exe",
-  "patch_notes": "- İlk sürüm"
+  "patch_notes": ""
 }
